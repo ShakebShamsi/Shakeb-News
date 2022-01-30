@@ -1,5 +1,3 @@
-console.log("This is my index js file");
-
 // Initialize the news api parameters
 let source = 'in';
 let apiKey = '89541df646524987b62ca69585f0d2a5'
