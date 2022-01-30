@@ -1,6 +1,6 @@
 // Initialize the news api parameters
 let source = 'in';
-let apiKey = '89541df646524987b62ca69585f0d2a5'
+let apiKey = '7cb955a4613248398760c0b083d83eb4'
 
 // Grab the news container
 let newsAccordion = document.getElementById('newsAccordion');
